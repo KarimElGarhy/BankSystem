@@ -1,7 +1,7 @@
 # Bank System
 bank System with C++ to create client, employee and admins.
 
-The Admins can:<br>
+# The Admins can:
 1-Add New Client <br>
 2-List Of All Clients (show all Clients in the system)<br>
 3-Search For A Client(with id)<br>
@@ -11,13 +11,13 @@ The Admins can:<br>
 7-Search For An Employee (with id)<br>
 8-Edit Employee<br>
 ----------------------------<br>
-The Employee can:<br>
+# The Employee can:
 1-Add New Client <br>
 2-List Of All Clients<br>
 3-Search For A Client<br>
 4-Edit Client<br>
 ----------------------------<br>
-The Client can:<br>
+# The Client can:
 1-Deposit<br>
 2-Withdraw<br>
 3-transferTo ( from his account to another account with id )<br>
